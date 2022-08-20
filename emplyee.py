@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import openpyxl
 import sys
 
 # employee dict
